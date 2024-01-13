@@ -1,0 +1,16 @@
+h1.titles, h2.titles {
+    text-align: center;    
+    font-family: 'Rubik', sans-serif;
+}
+
+body {
+    background-color: #FF7517;
+}
+
+.titles {
+    background-color: #FF7517;
+}
+
+.port {
+    background-color: #3E3939;
+}
