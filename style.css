@@ -3,14 +3,9 @@ h1.titles, h2.titles {
     font-family: 'Rubik', sans-serif;
 }
 
-body {
-    background-color: #FF7517;
-}
-
-.titles {
-    background-color: #FF7517;
-}
-
-.port {
-    background-color: #3E3939;
-}
+.center {
+    margin: auto;
+    width: 60%;
+    border: 5px solid #FFFF00;
+    padding: 10px;
+    }
