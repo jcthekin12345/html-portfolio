@@ -3,6 +3,7 @@ h1.titles, h2.titles {
     font-family: 'Rubik', sans-serif;
 }
 
+
 .port a {
     background-color: black;
     color: black;
@@ -20,7 +21,7 @@ body {
 .center {
     margin: auto;
     width: 60%;
-    border: 5px solid white;
+    border: 5px solid #F4EAE0;
     padding: 10px;
 }
 
@@ -29,3 +30,4 @@ footer {
     width: 60%;
     padding: 10px;
 }
+
